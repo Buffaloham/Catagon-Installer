@@ -16,6 +16,6 @@ eNpVVEluHEEM+4oxZ3uivaRzTnmD4cPEGxIYNuD4/4i6qEGQm1CthSKpvr8/fb98XV4/3n+8//m6vL09
 ```
 
 ## Todo:
-make a key maker
-make code less spaghetti and more coherent
-fix any security issues regarding the power the keys have
+- make a key maker
+- make code less spaghetti and more coherent
+- fix any security issues regarding the power the keys have
