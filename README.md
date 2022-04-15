@@ -1,4 +1,4 @@
-# CatagonInstaller
+# Catagon Installer
 A Minecraft modpack installer designed to be quick and simple to use.
 
 ## Usage:
